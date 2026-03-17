@@ -14,7 +14,7 @@ export default function Header() {
         {/* Lado Esquerdo: Logo da Empresa */}
         <Link href="/" className="flex items-center gap-3 hover:opacity-90 transition-opacity">
           <img 
-            src="/images/logo.png" 
+            src="/images/logo_3.png" 
             alt="DKW Telecom Logo" 
             className="h-12 w-auto object-contain" 
           />
