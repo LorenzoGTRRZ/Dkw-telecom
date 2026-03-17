@@ -13,7 +13,7 @@ export default function QuoteCart() {
 
   // Função que monta a mensagem e envia para o WhatsApp
   const handleCheckout = () => {
-    const telefone = "5551999999999"; // Coloque o número da empresa aqui
+    const telefone = "554199989303"; // Coloque o número da empresa aqui
     let mensagem = "Olá! Acessei o site e gostaria de solicitar um orçamento para os seguintes itens:%0A%0A";
 
     items.forEach(item => {
